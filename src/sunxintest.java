@@ -7,5 +7,6 @@
 public class sunxintest {
     public static void main(String[] args) {
         System.out.println("这是孙鑫的测试提交");
+        System.out.println("这是孙鑫的测试提交2");
     }
 }
